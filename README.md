@@ -1,2 +1,6 @@
 # hello-world
-Just another respitory
+
+Hi Programmers!
+
+Am Fred new to github and a beginner in programming
+i love android and java programming. 
